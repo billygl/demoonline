@@ -1,7 +1,7 @@
 - teacher: Billy
 
 # students:
-- 
+- Billy Grados
 - 
 - 
 - 
