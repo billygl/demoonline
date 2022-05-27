@@ -2,6 +2,7 @@
 
 # students:
 - Billy Grados
+- Bruno Chirinos
 - 
 - 
 - 
