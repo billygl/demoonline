@@ -5,5 +5,5 @@
 - Bruno Chirinos
 - Alonso Paz
 - 
-- 
+- Tom Bryan
 - etc
